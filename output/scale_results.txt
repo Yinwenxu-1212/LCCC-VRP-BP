@@ -1,4 +1,0 @@
-====== Scale Experiment Results Summary ======
-Scale (N)  | Cost       | Time(s)    | Emission(kg) | Vehicles | Avg Dist  
----------------------------------------------------------------------------
-50         | 40021.64   | 9.71       | 5399.44      | 28       | 366.61    
